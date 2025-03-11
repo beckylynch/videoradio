@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pic/map_menu.jpeg</file>
+        <file>pic/zoom_down.png</file>
+        <file>pic/zoom_up.png</file>
+        <file>pic/exit.png</file>
+    </qresource>
+</RCC>
